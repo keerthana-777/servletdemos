@@ -10,6 +10,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Student List</title>
+<link type="text/css" rel="stylesheet" href="css/styles.css"/>
 </head>
 <body>
 	<table border="1">
